@@ -1,5 +1,6 @@
 Note: checkout the `grunt-init` branch to see/get reveal.js as a grunt-init project template.
 
+[View the grunt-init branch online](https://github.com/toonketels/grunt-init-reveal/tree/grunt-init)
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
